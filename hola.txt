@@ -11,4 +11,7 @@ profesor jorge salgado
 my favorite game is chess
 
 
-hol de nuevo estoy entusiasmado por hacer un reset
+hola de nuevo estoy entusiasmado por hacer un reset
+
+
+corregido el hola esta es una nueva linea para un nuevo commit 
