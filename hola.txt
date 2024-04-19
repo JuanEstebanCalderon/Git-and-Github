@@ -15,3 +15,5 @@ hola de nuevo estoy entusiasmado por hacer un reset
 
 
 corregido el hola esta es una nueva linea para un nuevo commit 
+
+En este monento esta lloviendo en bogota
