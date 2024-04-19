@@ -17,3 +17,17 @@ hola de nuevo estoy entusiasmado por hacer un reset
 corregido el hola esta es una nueva linea para un nuevo commit 
 
 En este monento esta lloviendo en bogota
+
+ esta haciendo frio en bogota
+
+esta es una nueva linea para esta magnifico  documento de texto plano 
+
+
+
+commit first
+
+commit second
+
+commit third
+
+
