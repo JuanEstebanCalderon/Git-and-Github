@@ -1,7 +1,12 @@
 h3{
-    color: #000;
+    color: #fff;
     padding: 20px;
-    background:  red;
+    background:  #000;
     font-size: 20px;
     font-weight: 800;
+    border-radius: 100px;
+}
+h3:hover{
+    background: blue;
+    color: #000;
 }
