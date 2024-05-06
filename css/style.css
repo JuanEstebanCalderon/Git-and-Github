@@ -1,3 +1,11 @@
+body{
+    height: 100%;
+    width: 100%;
+    background: green;
+}
+
+
+
 h3{
     color: #fff;
     padding: 20px;
@@ -10,3 +18,6 @@ h3:hover{
     background: blue;
     color: #000;
 }
+
+
+
